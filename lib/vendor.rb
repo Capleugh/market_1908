@@ -17,10 +17,3 @@ class Vendor
   end
 
 end
-
- # require 'pry'; binding.pry
-    # return quantity (integer)
-
-
-
-  # def stock
